@@ -8,9 +8,9 @@
     "Hours": "часов",
     "LevelUp": "Уровень повышен",
     "LuckyButNotTooLucky": "Вы ощущаете, что сегодня, вроде бы, вам повезёт.",
-    "MaybeStayHome": "Может быть, вам стоит сегодня остаться дома...",
+    "MaybeStayHome": "Может быть, тебе стоит сегодня остаться дома...",
     "Minutes": "минут",
-    "NotFeelingLuckyAtAll": "Сегодня вам совсем не везёт...",
+    "NotFeelingLuckyAtAll": "Сегодня тебе совсем не везёт...",
     "ReadyToHarvest": "Готово к сбору урожая!",
     "TodaysRecipe": "Сегодняшний рецепт: ",
     "TravelingMerchantIsInTown": "Странствующий Торговец в городе!",
@@ -30,19 +30,19 @@
     "ShowItemEffectRanges": "Показывать радиус пугал и спринклеров",
     "ShowExtraItemInformation": "Показывать дополнительную информацию по предметам",
     "ShowTravelingMerchant": "Показывать иконку Странствующего Торговца",
-    "ShowRainyDay": "Show rainy days", // TODO
+    "ShowRainyDay": "Показать дождливые дни",
     "ShowHarvestPricesInShop": "Показывать цену урожая в магазине",
     "ShowWhenNewRecipesAreAvailable": "Показывать, когда доступны новые рецепты",
     "ShowToolUpgradeStatus": "Показывать статус улучшения инструмента",
-    "HideAnimalPetOnMaxFriendship": "Hide on max friendship", // TODO
-    "HideMerchantWhenVisited": "Hide when visited", // TODO
-    "ShowExactValue": "Show exact value", // TODO
-    "DailyLuckValue": "Your daily luck is {0}", // TODO
-    "LuckStatus1": "Вы ощущаете, что сегодня вам точно повезёт!",
-    "LuckStatus2": "Вы ощущаете, что сегодня, вроде бы, вам повезёт.", // TODO
-    "LuckStatus3": "Вы ощущаете, что сегодня, вроде бы, вам повезёт.", // TODO
-    "LuckStatus4": "Вы ощущаете, что сегодня, вроде бы, вам повезёт.", // TODO
-    "LuckStatus5": "Сегодня вам совсем не везёт...", // TODO
-    "LuckStatus6": "Может быть, вам стоит сегодня остаться дома...",
-    "RobinBuildingStatus": "Robin will finish your new building in {0} day(s)" // TODO
+    "HideAnimalPetOnMaxFriendship": "Скрывать при максимальной дружбе",
+    "HideMerchantWhenVisited": "Скрывать после посещения",
+    "ShowExactValue": "Показывать точное значение",
+    "DailyLuckValue": "Ваша сегодняшняя удача - {0}",
+    "LuckStatus1": "Чувствую себя везунчиком!",
+    "LuckStatus2": "Чувствую себя сегодня немного везунчиком!",
+    "LuckStatus3": "Этот день в твоих руках",
+    "LuckStatus4": "Сегодня духи абсолютно нейтральны",
+    "LuckStatus5": "Удача сегодня не на твоей стороне",
+    "LuckStatus6": "Может быть, тебе стоит сегодня остаться дома...",
+    "RobinBuildingStatus": "Робин завершит строительство через {0} дн."
 }
